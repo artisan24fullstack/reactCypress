@@ -1,0 +1,51 @@
+/*! SASS #style main */
+@charset "UTF-8";
+
+@import "./vendors/_variable.scss";
+@import "./vendors/_fontawesome.scss";
+@import "./vendors/_font.scss";
+
+@import "./base/_reset.scss";
+@import "./base/_base.scss";
+@import "./base/_accessibilite.scss";
+@import "./base/_typography.scss";
+@import "./base/_boxes.scss";
+@import "./base/_grid.scss";
+@import "./base/_visibility.scss";
+
+@import "./layout/_footer.scss";
+@import "./layout/_weather.scss";
+
+
+@import "./components/_carousel.scss";
+@import "./components/_faq.scss";
+@import "./components/_accordion.scss";
+@import "./components/_card.scss";
+@import "./components/_modal.scss";
+@import "./components/_scrolltop.scss";
+@import "./components/_scrollspy.scss";
+@import "./components/_tableofcontent.scss";
+@import "./components/_tabs.scss";
+@import "./components/_progressbar.scss";
+
+/*
+.hero {
+  height: 600px;
+  background-color: #caf0f8;
+}
+
+.services {
+  height: 600px;
+  background-color: #f5cac3;
+}
+
+.blog {
+  height: 600px;
+  background-color: #d8f3dc;
+}
+
+.contact {
+  height: 600px;
+  background-color: #ffc6ff;
+}
+*/
