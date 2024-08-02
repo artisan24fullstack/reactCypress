@@ -1,8 +1,34 @@
-# React + Vite
+# Prototype (Structure for React Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## React.js, Vite, Hooks, Architecture
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+
+**Client:** 
+
+Préprocesseur CSS, Architecture Sass 7-1 Pattern - React.js
+
+## TAGS
+
+
+### HOOKS 
+- useDocumentTitle.js
+- useFetch.js
+- useHashNavigation.js
+- useHeadsObserver.js
+- useIncrement.js
+- useRefSync.js
+- useTodo.js
+- useToggle.js
+
+- https://tailwindui.com/components/preview
+
+
+```
+use npm i tailwind-merge
+```
+
+
+
+
